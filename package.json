@@ -1,0 +1,22 @@
+{
+  "name": "phil-blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/philgebauer/blog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/philgebauer/blog/issues"
+  },
+  "homepage": "https://github.com/philgebauer/blog#readme",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
+}
